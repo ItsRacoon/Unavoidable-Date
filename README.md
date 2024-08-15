@@ -24,7 +24,7 @@ Installation
 To use this project on your local machine, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/date-invitation.git
+   git clone https://github.com/ItsRacoon/date-invitation.git
 
 2. Navigate to the project directory:
    cd   Unavoidable-Date
